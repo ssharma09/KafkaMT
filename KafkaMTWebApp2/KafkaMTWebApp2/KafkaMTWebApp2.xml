@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>KafkaMTWebApp2</name>
+    </assembly>
+    <members>
+        <member name="M:KafkaMTWebApp2.Controllers.WebAppController.PostAsync(System.String)">
+            <summary>
+            Send create event
+            </summary>
+            <param name="title"></param>
+            <returns></returns>
+        </member>
+        <member name="T:KafkaMTWebApp2.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:KafkaMTWebApp2.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:KafkaMTWebApp2.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+    </members>
+</doc>

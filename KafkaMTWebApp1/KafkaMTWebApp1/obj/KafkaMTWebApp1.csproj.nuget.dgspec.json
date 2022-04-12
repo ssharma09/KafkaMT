@@ -1,0 +1,87 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Saloni Sharma\\source\\repos\\KafkaMT\\KafkaMTWebApp1\\KafkaMTWebApp1\\KafkaMTWebApp1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Saloni Sharma\\source\\repos\\KafkaMT\\KafkaMTWebApp1\\KafkaMTWebApp1\\KafkaMTWebApp1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Saloni Sharma\\source\\repos\\KafkaMT\\KafkaMTWebApp1\\KafkaMTWebApp1\\KafkaMTWebApp1.csproj",
+        "projectName": "KafkaMTWebApp1",
+        "projectPath": "C:\\Users\\Saloni Sharma\\source\\repos\\KafkaMT\\KafkaMTWebApp1\\KafkaMTWebApp1\\KafkaMTWebApp1.csproj",
+        "packagesPath": "C:\\Users\\Saloni Sharma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Saloni Sharma\\source\\repos\\KafkaMT\\KafkaMTWebApp1\\KafkaMTWebApp1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Saloni Sharma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MassTransit.AspNetCore": {
+              "target": "Package",
+              "version": "[7.1.8, )"
+            },
+            "MassTransit.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.1.8, )"
+            },
+            "MassTransit.Kafka": {
+              "target": "Package",
+              "version": "[7.1.8, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[7.1.8, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
