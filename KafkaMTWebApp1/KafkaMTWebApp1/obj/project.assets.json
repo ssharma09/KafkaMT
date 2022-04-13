@@ -5661,11 +5661,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Saloni Sharma\\source\\repos\\KafkaMT\\KafkaMTWebApp1\\KafkaMTWebApp1\\KafkaMTWebApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Saloni Sharma\\KafkaMT\\KafkaMTWebApp1\\KafkaMTWebApp1\\KafkaMTWebApp1.csproj",
       "projectName": "KafkaMTWebApp1",
-      "projectPath": "C:\\Users\\Saloni Sharma\\source\\repos\\KafkaMT\\KafkaMTWebApp1\\KafkaMTWebApp1\\KafkaMTWebApp1.csproj",
+      "projectPath": "C:\\Users\\Saloni Sharma\\KafkaMT\\KafkaMTWebApp1\\KafkaMTWebApp1\\KafkaMTWebApp1.csproj",
       "packagesPath": "C:\\Users\\Saloni Sharma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Saloni Sharma\\source\\repos\\KafkaMT\\KafkaMTWebApp1\\KafkaMTWebApp1\\obj\\",
+      "outputPath": "C:\\Users\\Saloni Sharma\\KafkaMT\\KafkaMTWebApp1\\KafkaMTWebApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Saloni Sharma\\AppData\\Roaming\\NuGet\\NuGet.Config",

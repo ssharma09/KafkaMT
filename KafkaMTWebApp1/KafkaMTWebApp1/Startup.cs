@@ -36,7 +36,19 @@ namespace KafkaMTWebApp1
 
             services.AddMassTransit(x =>
             {
-                x.UsingInMemory((context, cfg) => cfg.ConfigureEndpoints(context));
+                //x.UsingInMemory((context, cfg) => cfg.ConfigureEndpoints(context));
+                x.UsingRabbitMq(configure: (cxt, cfg) =>
+                {
+
+                    cfg.Host("localhost", virtualHost: "/", h => {
+
+                        h.Username("guest");
+                        h.Password("guest");
+
+                    });
+
+                    cfg.ConfigureEndpoints(cxt);
+                });
 
                 x.AddRider(rider =>
                 {

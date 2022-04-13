@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Saloni Sharma\\source\\repos\\KafkaMT\\KafkaMTWebApp2\\KafkaMTWebApp2\\KafkaMTWebApp2.csproj": {}
+    "C:\\Users\\Saloni Sharma\\KafkaMT\\KafkaMTWebApp2\\KafkaMTWebApp2\\KafkaMTWebApp2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Saloni Sharma\\source\\repos\\KafkaMT\\KafkaMTWebApp2\\KafkaMTWebApp2\\KafkaMTWebApp2.csproj": {
+    "C:\\Users\\Saloni Sharma\\KafkaMT\\KafkaMTWebApp2\\KafkaMTWebApp2\\KafkaMTWebApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Saloni Sharma\\source\\repos\\KafkaMT\\KafkaMTWebApp2\\KafkaMTWebApp2\\KafkaMTWebApp2.csproj",
+        "projectUniqueName": "C:\\Users\\Saloni Sharma\\KafkaMT\\KafkaMTWebApp2\\KafkaMTWebApp2\\KafkaMTWebApp2.csproj",
         "projectName": "KafkaMTWebApp2",
-        "projectPath": "C:\\Users\\Saloni Sharma\\source\\repos\\KafkaMT\\KafkaMTWebApp2\\KafkaMTWebApp2\\KafkaMTWebApp2.csproj",
+        "projectPath": "C:\\Users\\Saloni Sharma\\KafkaMT\\KafkaMTWebApp2\\KafkaMTWebApp2\\KafkaMTWebApp2.csproj",
         "packagesPath": "C:\\Users\\Saloni Sharma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Saloni Sharma\\source\\repos\\KafkaMT\\KafkaMTWebApp2\\KafkaMTWebApp2\\obj\\",
+        "outputPath": "C:\\Users\\Saloni Sharma\\KafkaMT\\KafkaMTWebApp2\\KafkaMTWebApp2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Saloni Sharma\\AppData\\Roaming\\NuGet\\NuGet.Config",
